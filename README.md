@@ -6,8 +6,6 @@
 
 <br/>
 
-![dependcies](https://david-dm.org/skarthikeyan96/node-koa-starter.svg)
-
 <br/>
 
 Koa js starter with typescript support.
