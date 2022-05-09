@@ -1,0 +1,23 @@
+{
+  "name": "node-koa-starter",
+  "version": "1.0.0",
+  "description": "Node js and Koa Boiler plate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node --harmony dist/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "14.14.31",
+    "tslint": "5.12.1",
+    "typescript": "3.3.3"
+  },
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "koa": "2.13.1",
+    "koa-morgan": "1.0.1",
+    "koa-router": "10.0.0"
+  }
+}
